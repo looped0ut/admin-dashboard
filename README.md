@@ -1,1 +1,1 @@
-# admin-dashboard
+A simple admin dashboard to test my knowlegde in css grid 
